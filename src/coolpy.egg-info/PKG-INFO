@@ -1,9 +1,29 @@
+Metadata-Version: 2.4
+Name: coolpy
+Version: 0.0.77
+Summary: CoolPy: accelerator physics utilities
+Author-email: Bernd Stechauner <bernd.stechauner@cern.ch>
+License: GPL-2.0-or-later
+Project-URL: Homepage, https://example.com/coolpy
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: blessings~=1.7
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: shapely
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
+Requires-Dist: build; extra == "dev"
+Requires-Dist: twine; extra == "dev"
+Requires-Dist: cibuildwheel; extra == "dev"
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/BerndStechauner/coolpy/main/src/coolpy/logo/coolpy_logo.png"
-    alt="CoolPy logo"
-    width="300"
-  >
+  <img src="coolpy/Logo/coolpy_logo.png" alt="CoolPy logo" width="300">
 </p>
 
 # coolpy
