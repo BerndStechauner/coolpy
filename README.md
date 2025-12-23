@@ -6,6 +6,8 @@
   >
 </p>
 
+![CoolPy logo](https://raw.githubusercontent.com/BerndStechauner/coolpy/src/coolpy/Logo/coolpy_logo.png)
+
 # coolpy
 
 CoolPy is a Python package for **muon beam cooling studies**, with a particular
