@@ -6,7 +6,7 @@
   >
 </p>
 
-![CoolPy logo](https://raw.githubusercontent.com/BerndStechauner/coolpy/src/coolpy/Logo/coolpy_logo.png)
+![CoolPy logo](https://github.com/BerndStechauner/coolpy/tree/main/src/coolpy/Logo/coolpy_logo.png)
 
 # coolpy
 
