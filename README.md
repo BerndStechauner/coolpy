@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/BerndStechauner/coolpy/main/src/coolpy/logo/coolpy_logo.png"
+    src="https://raw.githubusercontent.com/BerndStechauner/coolpy/main/src/coolpy/Logo/coolpy_logo.png"
     alt="CoolPy logo"
     width="300"
   >
