@@ -1,7 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BerndStechauner/coolpy/main/src/coolpy/logo/coolpy_logo.png"
+    alt="CoolPy logo"
+    width="300"
+  >
+</p>
 
-<img src="https://raw.githubusercontent.com/BerndStechauner/coolpy/main/src/coolpy/Logo/coolpy_logo.png"
-     alt="coolpy logo"
-     width="240">
 
 # coolpy
 
