@@ -43,7 +43,7 @@ routines.
 
 ## Installation
 
-CoolPy supports **Python 3.8 – 3.12**.
+CoolPy supports **Python 3.10 – 3.13**.
 
 Install CoolPy from PyPI using:
 
